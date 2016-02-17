@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-apples
-sweet oranges
-=======
-sweet apples
+sour apples
 oranges
->>>>>>> 0d60c99bb29b33f1625f59fecb0dff02fd2986c8
 kiwis
 carrots
